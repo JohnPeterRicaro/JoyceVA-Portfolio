@@ -29,8 +29,8 @@ const Hero = () => {
             </div>
           </div>
           <div className="w-full my-8 gap-2 flex justify-center items-start">
-            <p className="mt-[-7px]">—</p>
-            <span className="w-[350px] md:w-[375px] text-[#046a9b] italic font-bold text-[11px] leading-[1.4em] tracking-normal">
+            <p className="mt-[-4px] font-bold text-[14px]">—</p>
+            <span className="w-[350px] md:w-[375px] text-[#046a9b] italic font-bold text-[14px] leading-[1.4em] tracking-normal">
               Greetings. I’m Joyce, and I’m a virtual assistant helping
               insurance agencies save time and money by offering a variety of
               data entry, customer service and admin tasks to make sure they’re

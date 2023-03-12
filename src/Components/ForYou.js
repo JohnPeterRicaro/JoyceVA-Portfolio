@@ -17,12 +17,12 @@ const ForYou = () => {
             What's in it for you?
           </h1>
         </div>
-        <div className="flex space-y-4 md:space-y-20 justify-center items-center flex-col">
-          <div className="boxShadow w-[350px] md:w-[700px] h-auto p-8 text-[#046A9B] flex justify-center items-center flex-col text-center rounded-3xl bg-[#e8ebf3] shadow-lg">
-            <h1 className=" font-Cookie text-[27.8px]">
+        <div className="flex space-y-4 md:space-y-10 justify-center items-center flex-col">
+          <div className="boxShadow w-[350px] md:w-[900px] h-auto p-8 text-[#046A9B] flex justify-center items-center flex-col text-center rounded-3xl bg-[#e8ebf3] shadow-lg">
+            <h1 className=" font-Cookie text-[42px]">
               The job/tasks can be done without breaking your bank!
             </h1>
-            <p className=" font-OpenSans w-[auto] md:w-[524px] font-light text-[14.8px]">
+            <p className=" font-OpenSans w-[auto] md:w-[750px] font-light text-[22px]">
               I want to make sure that the services I offer are worth every
               penny. By hiring an independent contractor, you don't need to
               worry about 401K, payroll, workers comp, taxes, and health
@@ -34,11 +34,11 @@ const ForYou = () => {
               think about any other fees, just the per-hour rate!
             </p>
           </div>
-          <div className="boxShadow w-[350px] md:w-[700px] h-auto p-8 text-[#046A9B] flex justify-center items-center flex-col text-center rounded-3xl bg-[#e8ebf3] shadow-lg">
-            <h1 className=" font-Cookie text-[27.8px]">
+          <div className="boxShadow w-[350px] md:w-[900px] h-auto p-8 text-[#046A9B] flex justify-center items-center flex-col text-center rounded-3xl bg-[#e8ebf3] shadow-lg">
+            <h1 className=" font-Cookie text-[42px]">
               All your files are secured!
             </h1>
-            <p className=" font-OpenSans w-auto md:w-[524px] font-light text-[14.8px]">
+            <p className=" font-OpenSans w-auto md:w-[750px] font-light text-[22px]">
               You don't have to worry about the security of your files and
               documents because here's what I can assure you:
               <br />
@@ -49,11 +49,11 @@ const ForYou = () => {
               records.
             </p>
           </div>
-          <div className="boxShadow w-[350px] md:w-[700px] h-auto p-8 text-[#046A9B] flex justify-center items-center flex-col text-center rounded-3xl bg-[#e8ebf3] shadow-lg">
-            <h1 className=" font-Cookie text-[27.8px]">
+          <div className="boxShadow w-[350px] md:w-[900px] h-auto p-8 text-[#046A9B] flex justify-center items-center flex-col text-center rounded-3xl bg-[#e8ebf3] shadow-lg">
+            <h1 className=" font-Cookie text-[42px]">
               Gain peace of mind and clarity
             </h1>
-            <p className="relative font-OpenSans w-auto md:w-[524px] font-light text-[14.8px]">
+            <p className="relative font-OpenSans w-auto md:w-[750px] font-light text-[22px]">
               Let me take care of the back-office tasks, answer email/website
               inquiries, set and manage appointments, and organize data
               efficiently with the utmost confidentiality. Being a business
@@ -65,7 +65,7 @@ const ForYou = () => {
               <br />
               Take it back, you deserve your time.
             </p>
-            <div className="absolute translate-x-[190px] translate-y-[190px] md:translate-x-[380px] md:translate-y-[180px] rotate-[-15deg]">
+            <div className="absolute translate-x-[190px] translate-y-[190px] md:translate-x-[480px] md:translate-y-[200px] rotate-[-15deg]">
               <img className="w-[111px] md:w-[223px]" src={Breeze2} alt="" />
             </div>
           </div>
